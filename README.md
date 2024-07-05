@@ -19,7 +19,7 @@ Simple Age and Gender Detector using Machine Learning
 5. View Results
 
 ## Sample outputs
-1. [Sample Output 1]()
+1. [Sample Output 1](https://github.com/Anuacc06/Age-and-Gender-Detector/blob/main/Output_Image_1.png)
 2. [Sample Output 2]()
 3. [Sample Output 3]()
 4. [Sample Output 4]()
